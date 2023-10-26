@@ -1,0 +1,16 @@
+.topnav{
+    display: block;
+    margin: 20px;
+}
+
+.active{
+    margin: 20px; 
+}
+.topnav input{
+    width: 70%; 
+    padding: 10px;
+}
+
+.a{
+    margin: 20px;
+}

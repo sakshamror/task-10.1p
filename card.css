@@ -1,0 +1,13 @@
+/* card.css */
+
+.row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .column {
+    margin: 10px;
+  }
+  
+
+  
